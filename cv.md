@@ -52,3 +52,5 @@ function repeatStr (n, s) {
 ***
 ### Language:
 ***English:*** Elementary A1+ A2 (I raise my English level using the **English Galaxy** application on my smartphone, I actively use Google translator)
+- I watch a lot of tutorial videos on YouTube[
+ВОТ ЭТО английский](https://www.youtube.com/c/%D0%92%D0%9E%D0%A2%D0%AD%D0%A2%D0%9E)
