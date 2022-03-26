@@ -14,10 +14,15 @@ I am an artist-teacher by education. I am an aesthetic and perfectionist, assidu
 ###	Code example:
 
 ```java script
-function multiply(a, b){
-  a * b
-  return a * b
-}
+function repeatStr (n, s) {
+    let str = '';
+     for(i = 0; i < n; i++)
+       str += s;
+     return str;
+   }
+   
+   repeatStr(3, "*");
+   
 ```
 ***
 ###	Skills and Proficiency:
