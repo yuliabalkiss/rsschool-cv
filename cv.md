@@ -9,7 +9,7 @@
 
 
 ### About myself:
-I am an artist-teacher by education. I am an aesthetic and perfectionist, assiduous and hardworking. I want to make changes in my life and become a front-end developer.
+Hey! My name is Yulia. I am an art teacher by training. What am I doing here?! I want to change my life for the better. I want to become a frontend developer. I want my work to benefit society. Will it work? For sure! :)
 ***
 ###	Code example:
 
@@ -22,7 +22,6 @@ function repeatStr (n, s) {
    }
    
    repeatStr(3, "*");
-   
 ```
 ***
 ###	Skills and Proficiency:
