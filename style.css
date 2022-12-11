@@ -1,0 +1,154 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+html{
+    scroll-behavior: smooth;
+
+}
+
+
+body{
+    background-color: #c4c4c4;
+    min-height: 150vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+ 
+.nav_list{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
+    max-height: 15%;  
+}
+
+
+  .resume_wrapper{
+     display: flex;
+     width: 800px;
+     margin: 50px auto;
+     padding: 5px;
+     background-color: #fff;
+ }
+
+
+ .resume_wrapper .resume_left {
+        width: 30%;
+        background: #d8d4d4;
+
+ }
+
+
+ .resume_wrapper .resume_left .resume_image img{
+     width: 100%;
+     display: block;
+ }
+
+
+ .resume_wrapper .resume_title{
+     font: size 18px;
+     font-weight: bold;
+     text-transform: uppercase;
+     color: floralwhite;
+     margin-bottom: 9px;
+ }
+ .resume_wrapper .resume_left .resume_info{
+     color: #999898;
+ }
+
+ .resume_wrapper .resume_left .resume_bottom{
+    padding: 10px 20px;
+ }
+ .resume_wrapper .resume_item{
+     border-bottom: 1px solid #5c5959;
+     padding: 15px 0;
+ }
+
+ .resume_wrapper .resume_left .resume_skills .skills_list{
+     display: flex;
+     justify-content:space-between;
+     margin-bottom:7px ;
+ }
+
+ .resume_wrapper .resume_right{
+    width: 70%;
+    padding: 15px 30px;
+ }
+ .resume_wrapper .resume_right .resume_namerole .name{
+     color: #5c5959;
+     font-size: 30px;
+ }
+
+ .resume_wrapper .resume_right .resume_namerole .role{
+     font-size: 16px;
+     text-transform: uppercase;
+ }
+
+ .resume_wrapper .resume_right .resume_item .resume_title{
+     color: #999898;
+ }
+ .resume_wrapper .resume_right .resume_data{
+     display: flex;
+ }
+ .resume_wrapper .resume_right .resume_data .year{
+     padding-right: 30px;
+     width: 115px;
+     position: relative;
+ }
+
+ .resume_wrapper .resume_right .resume_data .content{
+     padding-left: 30px;
+     margin-bottom: 20px;
+     width: calc(100%-115px);
+ }
+ .resume_wrapper .resume_right .resume_interests .resume_info{
+     display: flex;
+     justify-content: space-between;
+     text-align: center;
+ }
+ .resume_wrapper .resume_right .resume_interests .interests .int_icon{
+     font-size: 28px;
+     color:darkcyan;
+     margin: bottom 10px;
+ }
+
+
+ a{
+    color:#0da3ad;
+  }
+  
+  a:hover {
+    color:rgb(5, 196, 116);
+    text-decoration: none;
+    transition: all .3s linear;
+  }
+ .footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 8px 0;
+    text-align: center;
+    align-items: flex-end;
+ }
+ .contact_links{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center; 
+ }
+
+ 
