@@ -40,7 +40,9 @@ function yourFutureCareer() {
 **Direction:** design, computer graphics
 
 
+
 ***Courses:*** 
+-curses ** REDEV ** modul Java Script
 - video curses on HTML, CSS, JS by [Фрилансер по жизни - IT и фриланс ](https://www.youtube.com/c/FreelancerLifeStyle)
 -  JavaScript [learn.javascript.ru](https://learn.javascript.ru/hello-world)
 - FreeCodeCamp [www.freecodecamp.org](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
