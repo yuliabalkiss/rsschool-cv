@@ -13,9 +13,15 @@ I am an artist-teacher by education. I am an aesthetic and perfectionist, assidu
 ###	Code example:
 
 ```java script
-function multiply(a, b){
-  a * b
-  return a * b
+function yourFutureCareer() {
+    let career = Math.random();
+    if (career <= 0.32) {
+        return 'FrontEnd Developer';
+    } else {
+        if (career <= 0.65) {
+            return 'BackEnd Developer';
+        } else return 'Full-Stack Developer';
+    }
 }
 ```
 ***
