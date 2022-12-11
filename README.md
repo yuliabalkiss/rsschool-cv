@@ -1,1 +1,3 @@
-# https://yuliabalkiss.github.io/rsschool-cv/cv
+rsschool-cv
+# https://yuliabalkiss.github.io/rsschool-cv/
+
